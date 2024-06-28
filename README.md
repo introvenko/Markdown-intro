@@ -14,6 +14,7 @@ I want to start my story with one of the most stupid jokes in my life.
 Hello to everyone, who will read this! My name is **Volodymyr**.<br>
 I'm THIRTY *(no, I'm not crying at that moment)*.😭<br>
 I'm from **UKRAINE** 🇺🇦, but last two years I live in **Belgium** 🇧🇪.<br>
+I'm also a typical introvert and I really like it.
 During my two years in Belgium I've had some success in learning Dutch, visited some famous Belgian cities *(Ghent and Bruges are staying in my heart 4ever)* and then I wanted to try something new.  
 
 25th of June 2024 has become one of the most important day for me since I came to Belgium. Why? Finally I start my studying in Becode to become a *Fullstack Developer* in future. I want to write more, but I think, I haven't so much time to do this.
@@ -23,6 +24,8 @@ Next step.<br>
 - **Speaking Dutch**: I've always wanted to learn German to understand Rammstein songs, but... happened as it happened. And I can't say that I'm not *tevreden*.
 - **137**: number of books, which I've read from the 1st of January till 25th of June.
 - **Become a Becode student**: I've felt at once, and I was thinking I'd fall again. Till that iconic Monday (June 17).
+- **Understand and accept myself as I am**: During my teen-ages I worried a lot about things, which other people didn't like, but now I don't worry about this. I am who I am.
+- **Cooking**: I can cooking much better than my mother. Don't you believe? Just ask my wife.
 
 ## I like this the most in the whole universe.
 - *The best **wife** in the whole universe*
