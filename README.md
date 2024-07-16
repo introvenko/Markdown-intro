@@ -20,7 +20,7 @@ During my two years in Belgium I've had some success in learning Dutch, visited 
 25th of June 2024 has become one of the most important day for me since I came to Belgium. Why? Finally I start my studying in Becode to become a *Fullstack Developer* in future. I want to write more, but I think, I haven't so much time to do this.
 
 Next step.<br>
-## Top-3: I've never thought that I could do these three *most surprising* things.
+## Top-5: I've never thought that I could do these three *most surprising* things.
 - **Speaking Dutch**: I've always wanted to learn German to understand Rammstein songs, but... happened as it happened. And I can't say that I'm not *tevreden*.
 - **137**: number of books, which I've read from the 1st of January till 25th of June.
 - **Become a Becode student**: I've felt at once, and I was thinking I'd fall again. Till that iconic Monday (June 17).
